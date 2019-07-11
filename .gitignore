@@ -4,6 +4,9 @@
 *.jpeg
 *.zip
 
+# but not the images for the doc
+!doc/resources/*
+
 # vim saved files
 *.swp
 
