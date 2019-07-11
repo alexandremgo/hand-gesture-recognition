@@ -2,7 +2,7 @@
 
 The goal of this project is to predict if a hand gesture is "open hand", "fist", "left hand" or "right hand". It was used for my student ROS project to move a Khepera mobile robot according to hand gestures.
 
-This project uses Fourier descriptors (see [below](#fourier-descriptors) to compute the important information of a gesture from an image, and KNN to classify the gestures.
+This project uses Fourier descriptors (see [below](#fourier-descriptors) to compute the important information of a gesture from an image), and KNN to classify the gestures.
 
 ## Getting Started
 
