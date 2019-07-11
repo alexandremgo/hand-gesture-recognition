@@ -1,0 +1,14 @@
+# images
+*.jpg
+*.png
+*.jpeg
+*.zip
+
+# vim saved files
+*.swp
+
+build
+
+!.keep
+
+.vscode
