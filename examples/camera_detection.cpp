@@ -7,7 +7,7 @@
 #include "opencv2/opencv.hpp"
 
 #include "fourier_descriptors.hpp"
-#include "contour.hpp"
+#include "outline.hpp"
 
 #define OUTLINE_THRESHOLD_MAX 80
 #define CMAX 10

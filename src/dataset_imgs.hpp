@@ -7,7 +7,7 @@
 
 #include "definition.hpp"
 #include "gesture.hpp"
-#include "contour.hpp"
+#include "outline.hpp"
 #include "fourier_descriptors.hpp"
 
 using gestures_imgs_map = std::map<std::string, std::list<cv::Mat>>;

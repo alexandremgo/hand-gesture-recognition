@@ -4,7 +4,7 @@
 
 #include "tools.hpp"
 #include "knn.hpp"
-#include "contour.hpp"
+#include "outline.hpp"
 #include "fourier_descriptors.hpp"
 #include "definition.hpp"
 #include "dataset_imgs.hpp"

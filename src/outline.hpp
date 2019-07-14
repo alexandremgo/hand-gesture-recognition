@@ -3,6 +3,10 @@
 #include <complex>
 #include <vector>
 
+#define WINDOW_SIZE_WIDTH 400
+#define WINDOW_SIZE_HEIGHT 400
+#define WINDOW_POS_OFFSET 10
+
 /**
  * Gets the largest body (object with more red color) outline from the image
  * 
