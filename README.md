@@ -110,6 +110,19 @@ To use your webcam and the KNN model, run:
 
 With `camera_id` the same as [this section](#test-your-camera).
 
+### Get the image representation of the Fourier descriptors
+
+You can get the image representation of the Fourier descriptors computed from an image by running:
+
+```
+./image_representation_fourier_descriptors path_to_image
+```
+
+An example with a **left hand** gesture:
+
+<img src="doc/resources/ex_image_representation_fourier_descriptors.png" 
+    alt="image representation of the Fourier descriptors computed from an image" width="600" />
+
 ## Fourier descriptors
 
 Fourier descriptors permit to represent a closed shapes independently of its rotation, scaling and location. 
